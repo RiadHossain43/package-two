@@ -1,0 +1,15 @@
+{
+  "name": "@riadhossain43/pkg-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "dependencies": {
+    "@riadhossain43/pkg-one":"git+https://github.com/RiadHossain43/package-one",
+    "@riadhossain43/pkg-three":"git+https://github.com/RiadHossain43/package-three"
+  },
+  "author": "riadhossain",
+  "license": "ISC"
+}
