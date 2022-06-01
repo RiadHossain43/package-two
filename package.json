@@ -7,8 +7,8 @@
     "postinstall": "node postinstall.js"
   },
   "dependencies": {
-    "@riadhossain43/pkg-one":"git+https://github.com/RiadHossain43/package-one",
-    "@riadhossain43/pkg-three":"git+https://github.com/RiadHossain43/package-three"
+    "@riadhossain43/pkg-one": "git+https://github.com/RiadHossain43/package-one",
+    "@riadhossain43/pkg-three": "git+https://github.com/RiadHossain43/package-three"
   },
   "author": "riadhossain",
   "license": "ISC"
